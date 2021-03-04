@@ -1,0 +1,28 @@
+body
+{
+	background-color: grey;
+	display: block;
+	margin: auto;
+}
+
+img
+{
+	border: 1px solid black;
+}
+
+form
+{
+	border: 1px solid black;
+	background-color: white;
+	font-weight: bold;
+}
+
+#capture
+{
+	padding: 10px;
+	background: #f5da55;
+	width: 1070px;
+	margin: auto;
+	display: block;
+	border-radius: 30px;
+}
